@@ -1,5 +1,25 @@
-# Background
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Background](#background)
+- [Report](#report)
+  - [Executive Summary](#executive-summary)
+- [About the Data](#about-the-data)
+  - [Source](#source)
+  - [Assumptions](#assumptions)
+  - [Limitations](#limitations)
+  - [Hypothesis](#hypothesis)
+- [Bike Usage - When](#bike-usage---when)
+  - [Days of Week](#days-of-week)
+  - [Months](#months)
+  - [Time of Day \& Days of Week](#time-of-day--days-of-week)
+- [Bike Usage - Where](#bike-usage---where)
+- [Bike Usage - Journey Lengths](#bike-usage---journey-lengths)
+- [Bike Usage - Bike Types](#bike-usage---bike-types)
+- [Key Findings](#key-findings)
+- [Top 3 Reccommendations based on findings](#top-3-reccommendations-based-on-findings)
 
+
+# Background
 Cyclistic is a bike-sharing company within the fictional case study that can be viewed [here](case_study.pdf)
 
 
